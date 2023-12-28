@@ -1,0 +1,4 @@
+1 porsche 911 luxury 1 0
+2 bmw M5 luxury 1 0
+3 fiat 500 budget-friendly 1 0
+4 toyota Corolla budget-friendly 1 0
