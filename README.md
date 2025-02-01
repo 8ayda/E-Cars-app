@@ -7,13 +7,9 @@ This project was created as part of my first-year computer science engineering s
 
 ## Features
 
-### Car Availability Management
-- View the current status of cars available for rental.
-
-### Rental History Tracking
-- Record rental details by day, month, and cumulative total.
-
-### Archiving
-- Save and manage rental histories for long-term usage.
-
+- **Car Management**: Add, delete, modify, and view car details.
+- **Rental Management**: Rent out available cars, return them, and log rental history.
+- **File Persistence**: Automatically saves and loads data from `voiture_data.txt` and `locations_data.txt`.
+- **Car Availability**: Check cars available for rental.
+- **Historical Data**: View past rental transactions sorted by date.
 
